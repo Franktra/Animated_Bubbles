@@ -10,7 +10,7 @@
 
 ## 🎯 Animation Description
 
-The pack of gum gracefully moves across the screen, elegantly blowing bubbles that pop to reveal important keywords. This animation brings life to your screen and engages your audience with captivating visual storytelling.
+The pack of gum gracefully moves across the screen, elegantly blowing bubbles that pop to reveal important keywords. This animation brings life to your screen and engages your audience with captivating visual storytelling revealing key components of the (original) Action Framework.
 
 The animation unfolds through the following steps:
 
